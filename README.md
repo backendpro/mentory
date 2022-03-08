@@ -50,4 +50,4 @@
 - Terça: 21:00-22:30
 - Quinta: 19:00-20:30
 - Sábado: 09:00-10:30, 10:35-12:05
-- Extraordinários: Existe a possibilidade de fazermos 06:00 em alguns dias, dependendo do acordado.
+- Extraordinários: Existe a possibilidade de fazermos 07:00 em alguns dias, dependendo do acordado.
