@@ -51,3 +51,8 @@
 - Quinta: 19:00-20:30
 - Sábado: 09:00-10:30, 10:35-12:05
 - Extraordinários: Existe a possibilidade de fazermos 07:00 em alguns dias, dependendo do acordado.
+
+# Feriados e Recesso
+
+- Serão respeitados os feriados nacionais, estaduais e municipais de São Paulo. Não faço ponto facultativo;
+- No final do ano faremos um recesso de 15 dias corridos que será combinado no final do ano;
