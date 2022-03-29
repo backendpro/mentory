@@ -47,7 +47,6 @@
 
 - Caso se interessar, me retorne com pelo menos 4 horários que você tem disponibilidade. Mas veja abaixo os horários que tenho disponíveis atualmente pra ver se algum lhe agrada.
 
-- Terça: 21:00-22:30
 - Quinta: 19:00-20:30
 - Sábado: 09:00-10:30, 10:35-12:05
 - Extraordinários: Existe a possibilidade de fazermos 07:00 em alguns dias, dependendo do acordado.
