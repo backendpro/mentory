@@ -47,11 +47,12 @@
 
 - Caso se interessar, me retorne com pelo menos 4 horários que você tem disponibilidade. Mas veja abaixo os horários que tenho disponíveis atualmente pra ver se algum lhe agrada.
 
-- Quinta: 19:00-20:30
-- Sábado: 09:00-10:30, 10:35-12:05
-- Extraordinários: Existe a possibilidade de fazermos 07:00 em alguns dias, dependendo do acordado.
+- Consulte os horários disponíveis comigo
 
 # Feriados e Recesso
 
 - Serão respeitados os feriados nacionais, estaduais e municipais de São Paulo. Não faço ponto facultativo;
 - No final do ano faremos um recesso de 15 dias corridos que será combinado no final do ano;
+
+# Contato
+https://www.instagram.com/o.caiocosta/
