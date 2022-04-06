@@ -45,8 +45,6 @@
 
 # Horários
 
-- Caso se interessar, me retorne com pelo menos 4 horários que você tem disponibilidade. Mas veja abaixo os horários que tenho disponíveis atualmente pra ver se algum lhe agrada.
-
 - Consulte os horários disponíveis comigo
 
 # Feriados e Recesso
