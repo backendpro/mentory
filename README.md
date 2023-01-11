@@ -35,6 +35,8 @@
 - Grupo com 2 Alunos: *210/mês* ou *R$ 1197,00 à vista (5% de desconto)*
 - Grupo com 3-4 Alunos: *180/mês* ou *R$ 1026,00 à vista (5% de desconto)*
 
+- *O PAGAMENTO DAS MENSALIDADES DEVEM SER FEITOS ATÉ O DIA 15 DE CADA MÊS. CASO O DIA 15 CAIA EM UM FINAL DE SEMANA OU FERIADO, PODERÁ SER FEITO NO PRÓXIMO DIA ÚTIL*
+
 # Horários
 - Consulte os horários disponíveis comigo
 
