@@ -1,41 +1,27 @@
 # Temas
 
-- Lógica de Programação
-  - Desafios de lógica, provas e exercícios
-- Conceitos de OO
-- Tecnologias
-  - Java 8/11
-  - Gradle
-  - Spring Boot
-  - Bancos Relacionais e Não Relacionais
-  - Mensageria
-  - Testes Unitários
-- Arquitetura
-  - Arquitetura de microserviços
-  - Patterns
-
-## Sobre os temas
-- O conteúdo pode ser *reavaliado* de acordo com o Aluno, caso o Aluno possua conhecimento prévio, um plano de aula pode ser montado no primeiro dia para atender especificamente a necessidade
+- Os temas abordados são referentes às necessidades dos alunos. Todo roadmap é montado em cima do que for exposto pelo aluno de necessidade e também em cima do que eu identificar que precisa ser melhorado.
+- Com base nisso, a PRIMEIRA AULA é dedicada totalmente em montar o Roadmap que será seguido durante todo o processo.
 
 # Complemento
 
 - Partes práticas voltadas à projetos
 - Exercícios
 
-
 # Observações Gerais
 - As aulas terão o formato com teoria e prática, todas feitas via Google Meet.
-- Faremos aula 1x por semana com 1:30 de duração.
+- Faremos aula 1x por semana com 1:00 de duração.
 - Algumas aulas terão tarefas a serem entregues. Eu vou cobrar, claro, mas vai da força de vontade de vocês de fazer pra evoluir.
-- A mentoria tem duração de 6 meses (podendo ser estendida, caso o aluno queira continuar)
+- A mentoria tem duração de 12 semanas (podendo ser estendida, caso o aluno queira continuar)
 
 # Valores:
 
-- Particular: *R$ 260/mês* ou *R$ 1482,00 à vista (5% de desconto)*
-- Grupo com 2 Alunos: *210/mês* ou *R$ 1197,00 à vista (5% de desconto)*
-- Grupo com 3-4 Alunos: *180/mês* ou *R$ 1026,00 à vista (5% de desconto)*
+- Particular: *R$ 320/mês*
+- Grupo com 2 Alunos: *280/mês*
+- Grupo com 3-4 Alunos: *265/mês*
 
-- *O PAGAMENTO DAS MENSALIDADES DEVE SER FEITOS ATÉ O DIA 15 DE CADA MÊS. CASO O DIA 15 CAIA EM UM FINAL DE SEMANA OU FERIADO, PODERÁ SER FEITO NO PRÓXIMO DIA ÚTIL*
+- *Ao iniciar a mentoria, deverá realizar o pagamento do primeiro mês, logo após o vencimento será no dia 10 de cada mês (ou seja, podem ser pagas ATÉ o dia 10)*
+- *Caso queira pagar o valor da mentoria inteiro, terá 7% de desconto no valor*
 
 # Horários
 - Consulte os horários disponíveis comigo
